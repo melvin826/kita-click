@@ -1,0 +1,1 @@
+export default function Features(){return <div className="max-w-4xl mx-auto p-8"><h2 className="text-2xl font-bold">Features</h2><p className="mt-3 text-slate-600">Certificates, AI tools, analytics, integrations.</p></div>}

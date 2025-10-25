@@ -1,0 +1,1 @@
+export default function Services(){return <div className="max-w-4xl mx-auto p-8"><h2 className="text-2xl font-bold">Services</h2><p className="mt-3 text-slate-600">LMS, EMS, Automation suite, Brand onboarding, Live selling services.</p></div>}

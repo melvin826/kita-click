@@ -1,0 +1,1 @@
+export default function PrivacyPolicy(){return <div className="max-w-4xl mx-auto p-8"><h2 className="text-2xl font-bold">Privacy Policy</h2><p className="mt-3 text-slate-600">Privacy policy placeholder.</p></div>}

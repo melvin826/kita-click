@@ -1,0 +1,1 @@
+export default function About(){return <div className="max-w-4xl mx-auto p-8"><h2 className="text-2xl font-bold">About KitaClick</h2><p className="mt-3 text-slate-600">KitaClick empowers Filipino entrepreneurs through education and commerce.</p></div>}
